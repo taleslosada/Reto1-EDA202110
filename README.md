@@ -1,1 +1,2 @@
-# -Reto1-EDA202110
+Juan Camilo Reyes - 201922989
+Tales Losada - #########
